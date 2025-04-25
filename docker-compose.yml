@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  brachiosaure:
+    image: anssi/fcsc2023-reverse-brachiosaure:latest
+    ports:
+    - ${PORT}:8000
