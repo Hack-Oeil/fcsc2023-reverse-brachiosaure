@@ -8,7 +8,7 @@ Fichiers:
 - [brachiosaure](brachiosaure)  (Application)
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 
 Origine : [Brachiosaure](https://hackropole.fr/fr/challenges/reverse/fcsc2023-reverse-brachiosaure/)
